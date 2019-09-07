@@ -1,4 +1,4 @@
-#### Sample project to figure out how to use expo
+### Sample project to figure out how to use expo
 Docs found here: https://expo.io/learn
 
 1. Try the snack on the website
